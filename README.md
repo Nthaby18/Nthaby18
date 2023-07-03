@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nthaby18
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on software 
+- 👀 I’m interested in
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on  
 - 📫 How to reach me ...
 
 <!---
